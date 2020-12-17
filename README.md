@@ -12,7 +12,9 @@ y ejecutarlo con este comando:
 java -jar correccion.jar goldstandard.txt resultados.txt
 ```
 
-Siendo `goldstandard.txt` el archivo "correcto" y `resultados.txt` el archivo a corregir.
+Siendo `goldstandard.txt` el archivo "correcto" y `resultados.txt` el archivo a corregir. La salida será algo similar a esta:
+
+![Salida](https://i.imgur.com/VuIlIub.png)
 
 ## Desarrollo
 
